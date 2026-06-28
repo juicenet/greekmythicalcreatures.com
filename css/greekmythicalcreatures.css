@@ -1,0 +1,5 @@
+body {
+    background-image: linear-gradient(to top, CornflowerBlue, CornflowerBlue, white);
+}
+html { min-height: 100%; }
+body { min-height: 100vh; }
