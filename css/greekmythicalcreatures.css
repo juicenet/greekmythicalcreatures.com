@@ -1,5 +1,23 @@
 body {
-    background-image: linear-gradient(to top, CornflowerBlue, CornflowerBlue, white);
+    background-image: linear-gradient(to top, RoyalBlue, RoyalBlue, RoyalBlue, RoyalBlue, LightSteelBlue);
 }
 html { min-height: 100%; }
 body { min-height: 100vh; }
+.sidenav {
+    height: 1700px;
+    overflow-x: hidden;
+    left: 0px
+    position: absolute;
+    top: 76px;
+    width: 180px;
+    bottom: 0px;
+    font-size: 11pt;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    color: silver;
+    text-decoration: none;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
