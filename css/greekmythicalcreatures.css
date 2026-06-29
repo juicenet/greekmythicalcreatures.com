@@ -50,5 +50,21 @@ input
     padding: 0px 10px;
     position: absolute;
     top: 110px;
+    width: 832px;
 
+}
+.main table tr td {
+    padding: 5px 10px;
+}
+.expand-text
+{
+    font-size: 11pt;
+    text-align: center;
+    color: white;
+    margin-top: 5px ;
+}
+.expand-bullet
+{
+    color: goldenrod;
+    padding-right: 5px;
 }
