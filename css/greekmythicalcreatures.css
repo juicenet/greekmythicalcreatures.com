@@ -34,17 +34,19 @@ body {
 .header img {
     display: block;
 }
+
 .header table {
     border: none;
     border-spacing: 0;
     border-collapse: collapse;
 
 }
-input
-{
-    font-size:14pt;
+
+input {
+    font-size: 14pt;
     width: 120px;
 }
+
 .main {
     margin-left: 192px;
     padding: 0px 10px;
@@ -53,18 +55,23 @@ input
     width: 832px;
 
 }
+
 .main table tr td {
     padding: 5px 10px;
 }
-.expand-text
-{
+
+.expand-text {
     font-size: 11pt;
     text-align: center;
     color: white;
-    margin-top: 5px ;
+    margin-top: 5px;
 }
-.expand-bullet
-{
+
+.expand-bullet {
     color: goldenrod;
     padding-right: 5px;
+}
+
+a:hover {
+    color: black;
 }
